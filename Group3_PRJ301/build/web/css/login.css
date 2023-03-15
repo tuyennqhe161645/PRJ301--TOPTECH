@@ -52,8 +52,8 @@ section .noi-dung .form .input-form input{
      border-radius: 30px;
      }
  section .noi-dung .form .input-form button[type="submit"]{
-    background: gray;
-    color: black;
+    background: black;
+    color: beige;
     outline: none;
     border: none;
     font-weight: 700;
@@ -63,7 +63,7 @@ section .noi-dung .form .input-form input{
     border-radius: 10px;
  }
 section .noi-dung .form .input-form button[type="submit"]:hover{
-     background: black;
+     background: #607d8b;
      color: wheat;
  }
 

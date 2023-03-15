@@ -3,30 +3,47 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/model/Product.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/home.jsp</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/model/Cart.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/dao/ProductDAO.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/profile.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/dashboard.jsp</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/js/slick.min.js</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/Changepassword.jsp</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/controller/AddToCart.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/orderdetails.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/checkout.jsp</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/model/Category.java</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/model/OrderDetail.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/footer.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/header1.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/controller/SendMail.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/userprofile.jsp</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/login.jsp</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/managerProduct.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/dao/OrderDAO.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/controller/AddQuanlity.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/css/login.css</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/dao/DBContext.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/controller/RegisterController.java</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/Verify.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/images/Phone/iphone_14.png</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/assets/js/slick.min.js</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/controller/HomePage.java</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/controller/ViewCart.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/cart.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/header2.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/js/script.js</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/dao/MD5.java</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/assets/css/bootstrap.min.css</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/register.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/css/style.css</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/assets/css/banner.css</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/images/Phone/PH_iP_14.jpg</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/assets/css/nice-select.css</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/js/banner.js</file>
+            <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/manageruser.jsp</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/src/java/controller/ProductList.java</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/css/clock.css</file>
             <file>file:/D:/Projects/PRJ301--TOPTECH/Group3_PRJ301/web/clock.jsp</file>

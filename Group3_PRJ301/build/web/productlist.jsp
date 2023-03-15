@@ -89,7 +89,7 @@
 
                     <div id="brand"  class="brand-bg">
                         <div class="row">
-                            <div>
+                            <div style="width: 100%">
                                 <div class="places-list">
                                     <c:forEach var="p" items="${plist}">
                                         <div class="place-item">                                                                    

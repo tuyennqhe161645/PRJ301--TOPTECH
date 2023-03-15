@@ -80,7 +80,7 @@
                 </header>
 
                 <div class="col-md-12">
-                    <h1 style="text-align: center;">Manager User</h1>
+                    <h1 style="text-align: center; padding-top: 17px;">Manager User</h1>
 
                     <table class="table" style="margin-top: 20px; margin-bottom: 20px;">
                         <thead >
