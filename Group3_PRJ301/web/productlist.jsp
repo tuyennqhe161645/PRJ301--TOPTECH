@@ -83,6 +83,28 @@
                                         <option value="3" ${param['sort']==3?"selected":""}>Price descending</option>
                                     </select>
                                 </form>
+                                         <form style="
+                                          color: #555;
+                                          display: flex;
+                                          padding: 2px;
+                                          border: 1px solid currentColor;
+                                          border-radius: 16px;
+                                          width: 30%;
+                                          margin-left: 36%;
+                                          " action="ProductList?index=1" name="desktop-seacrh" method="get">
+                                        <input style="
+                                               border: none;
+                                               background: transparent;
+                                               margin: 0;
+                                               padding-right: 160px;
+                                               font-size: 14px;
+                                               color: inherit;
+                                               border: 1px solid transparent;
+                                               border-radius: 10px;
+                                               float: left;
+                                               " type="text" name="search"  class="input-text" value="" placeholder="search product...">
+                                        <i style="font-size: 25px; padding: 7px; float: right" class='fa fa-search'></i>
+                                    </form> 
                             </div>
                         </div>
                     </div>

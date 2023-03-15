@@ -58,7 +58,7 @@
                                     <form action="AddNewProduct" method="post">
                                         <div class="modal-body">
                                             <b>Name: </b><input type="text" class="form-control" value="" required name="name"><br>
-                                            <b>Price: </b><input type="number" step="0.1" class="form-control"  required value="" name="price"><br>
+                                            <b>Price: </b><input type="number" min ="0" max ="4000" step="0.5" class="form-control"  required value="" name="price"><br>
                                             <b>Category: </b>
                                             <div style="height: 50px; w30pxidth: 100%">
                                                 <select  class="form-control" style="display: block;" name="category" >
@@ -67,7 +67,7 @@
                                                     </c:forEach>
                                                 </select>
                                             </div>
-                                            <b>Stock: </b><input type="number" class="form-control" required value="" name="stock"><br>
+                                            <b>Stock: </b><input type="number" min ="1" max ="1000" step="1" class="form-control" required value="" name="stock"><br>
                                             <b>Description: </b><input type="text" class="form-control" required value="" name="descri"><br>
                                             <b>Image link:</b><input type="text" class="form-control" required  value="" name="img"><br>
                                         </div>
@@ -124,7 +124,7 @@
                                                 <div class="modal-body">
                                                     <b>ID: </b><input type="text" class="form-control" name="id" value="${p.getId()}" readonly=""><br>
                                                     <b>Name: </b><input type="text" class="form-control" value="${p.getName()}" name="name"><br>
-                                                    <b>Price: </b><input type="number" step="0.1" class="form-control" value="${p.getPrice()}" name="price"><br>
+                                                    <b>Price: </b><input type="number"  min ="0" max ="4000" step="0.5" class="form-control" value="${p.getPrice()}" name="price"><br>
                                                     <b>Category: </b>
                                                     <div style="height: 50px; w30pxidth: 100%">
                                                         <select  class="form-control" style="display: block;" name="category" >
@@ -133,7 +133,7 @@
                                                             </c:forEach>
                                                         </select>
                                                     </div>
-                                                    <b>Stock: </b><input type="number" class="form-control" value="${p.getStock()}" name="stock"><br>
+                                                    <b>Stock: </b><input type="number" min ="1" max ="1000" step="1"  class="form-control" value="${p.getStock()}" name="stock"><br>
                                                     <b>Create Date: </b><input type="date" class="form-control" value="${p.getCreateDate()}" name="creDate"><br>
                                                     <b>Description: </b><input type="text" class="form-control" value="${p.getDescription()}" name="descri"><br>
                                                     <b>Image link:</b><input type="text" class="form-control" value="${p.getImg()}" name="img"><br>
@@ -142,9 +142,8 @@
                                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                                                     <button type="submit" class="btn btn-success" value="submit">Submit</button>
                                                 </div>
-                                            </form>
+                                            </form>                                 
                                         </div>
-
                                     </div>
                                 </div>
                             </c:forEach>
